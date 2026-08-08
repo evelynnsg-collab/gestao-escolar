@@ -1,0 +1,7 @@
+.connection{display:flex;align-items:center;gap:6px;padding:7px 10px;border-radius:999px;font-size:9px;font-weight:700;white-space:nowrap}
+.connection i{width:7px;height:7px;border-radius:50%}
+.connection.online{background:var(--green-soft);color:var(--green)}
+.connection.online i{background:var(--green)}
+.connection.offline{background:var(--orange-soft);color:#b7662e}
+.connection.offline i{background:var(--orange)}
+@media(max-width:760px){.connection{margin-left:auto}.help{display:none}}
