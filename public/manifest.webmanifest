@@ -1,0 +1,10 @@
+{
+  "name": "EduGestão — CRM Escolar",
+  "short_name": "EduGestão",
+  "description": "Gestão escolar com acesso offline aos dados sincronizados.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f6f7fb",
+  "theme_color": "#5267e8",
+  "icons": [{"src":"/favicon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
