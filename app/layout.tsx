@@ -15,6 +15,9 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "EduGestão | Sistema Escolar",
   description: "Gestão de alunos, documentos, financeiro e rotina escolar em um só lugar.",
+  other: {
+    "codex-preview": "development",
+  },
   icons: {
     icon: "/favicon.svg",
     shortcut: "/favicon.svg",
